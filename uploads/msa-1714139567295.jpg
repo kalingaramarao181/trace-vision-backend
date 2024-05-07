@@ -1,0 +1,6 @@
+<br />
+<b>Warning</b>:  filetype(): Lstat failed for assets/driving/1708727400_thumbnail_Shefali DL.jpg in <b>C:\xampp\htdocs\Beedata\admin\download2.php</b> on line <b>12</b><br />
+<br />
+<b>Warning</b>:  filesize(): stat failed for assets/driving/1708727400_thumbnail_Shefali DL.jpg in <b>C:\xampp\htdocs\Beedata\admin\download2.php</b> on line <b>13</b><br />
+<br />
+<b>Warning</b>:  readfile(assets/driving/1708727400_thumbnail_Shefali DL.jpg): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Beedata\admin\download2.php</b> on line <b>16</b><br />
